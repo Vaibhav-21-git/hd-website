@@ -1,3 +1,5 @@
+This is an amazing project
+
 Technical notes:
 
 The Dojo Website CMS is extremely simple (less than 100 lines of code), but offers some really slick performance tricks:
